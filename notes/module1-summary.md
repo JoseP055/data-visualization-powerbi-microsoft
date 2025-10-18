@@ -1,156 +1,130 @@
-# Módulo 1 - Creación de Informes en Power BI
+# 🧭 Módulo 1 – Creación de Informes en Power BI
 
 ## Descripción general
-
-En esta primera semana del curso se introduce la importancia del **análisis y la visualización de datos** dentro del contexto de la **inteligencia empresarial (Business Intelligence, BI)**.  
-El módulo explica cómo **Power BI transforma los datos en información procesable**, cómo crear informes empresariales y las diferentes visualizaciones disponibles: desde gráficos básicos hasta representaciones más avanzadas.
-
----
-
-## Objetivos de aprendizaje
-
-Al finalizar la semana 1, el estudiante será capaz de:
-
-- Reconocer los diferentes tipos de visualizaciones en Power BI.  
-- Añadir y configurar visualizaciones en informes y paneles.  
-- Comprender la estructura de un informe empresarial en Power BI.  
-- Aplicar conceptos básicos de inteligencia empresarial (BI) en contextos reales.  
+Este módulo introduce la importancia del **análisis y la visualización de datos** dentro del contexto de la **inteligencia empresarial (Business Intelligence, BI)**.  
+Se explica cómo **Power BI transforma datos en información procesable**, permitiendo crear **informes empresariales claros y visualizaciones efectivas** que impulsan decisiones estratégicas.
 
 ---
 
-## Conceptos clave de inteligencia empresarial
+## 🎯 Objetivos de aprendizaje
+Al finalizar este módulo, el estudiante será capaz de:
 
-**Inteligencia empresarial (BI):**  
-Proceso basado en tecnología que permite analizar datos y transformarlos en información útil para la toma de decisiones estratégicas.
+- Reconocer los distintos tipos de visualizaciones en Power BI.  
+- Añadir y configurar visualizaciones en informes y paneles interactivos.  
+- Comprender la estructura y los componentes de un informe empresarial.  
+- Aplicar conceptos básicos de BI en escenarios reales.  
+
+---
+
+## 💡 Conceptos clave de Inteligencia Empresarial (BI)
+
+**Inteligencia Empresarial (BI):**  
+Proceso tecnológico que transforma datos en conocimiento para la toma de decisiones estratégicas.
 
 ### Principales métricas financieras
-- **Beneficio bruto:** mide la rentabilidad antes de los gastos generales.  
-- **Gastos de explotación:** costos asociados a operaciones diarias no productivas.  
-- **Ingresos netos:** beneficios después de impuestos y costes.  
-- **Margen de beneficios:** porcentaje de ganancia respecto a los ingresos.  
-- **Coste de los bienes vendidos (COGS):** costos directos de producción.
+- **Beneficio bruto:** rentabilidad antes de gastos generales.  
+- **COGS (Coste de bienes vendidos):** costos directos de producción.  
+- **Ingresos netos:** beneficios tras impuestos.  
+- **Margen de beneficio:** ganancia porcentual sobre los ingresos.  
 
 ### Indicadores de marketing
-- **Tasa de clics (CTR):** mide la efectividad de campañas digitales.  
-- **Costo de adquisición de clientes (CAC):** inversión promedio para captar un nuevo cliente.  
-- **Valor de vida del cliente (CLV):** beneficio esperado durante toda la relación comercial.
+- **CTR (Tasa de clics):** mide la efectividad de campañas.  
+- **CAC (Costo de adquisición de clientes):** inversión promedio por cliente nuevo.  
+- **CLV (Valor de vida del cliente):** beneficio esperado a largo plazo.
 
 ### Indicadores de ventas
-- **Ingresos por ventas:** total de ingresos por productos o servicios.  
-- **Crecimiento de ventas:** ritmo de aumento o disminución de ingresos.  
-- **Tasa de conversión:** porcentaje de clientes potenciales convertidos en ventas.
+- **Ingresos por ventas:** total de ingresos generados.  
+- **Crecimiento de ventas:** ritmo de aumento o disminución.  
+- **Tasa de conversión:** proporción de leads convertidos en clientes.
 
-### Indicadores de recursos humanos
-- **Tasa de rotación:** porcentaje de empleados que abandonan la empresa.  
-- **Costo por contratación:** gasto promedio por nuevo empleado.  
-- **Compromiso de los empleados:** nivel de implicación y satisfacción laboral.
-
----
-
-## Tipos de informes en Power BI
-
-- **Informes de ventas:** seguimiento de ingresos, productos más vendidos y tendencias.  
-- **Informes de marketing:** evaluación de rendimiento de campañas y ROI.  
-- **Informes financieros:** monitoreo de ingresos, gastos y beneficios.  
-- **Informes de RR.HH.:** análisis de plantilla, rotación y diversidad.
-
-Cada tipo de informe utiliza diferentes **visualizaciones** (gráficos de líneas, barras, circulares, cascada, tablas o KPI) según el objetivo del análisis.
+### Indicadores de RR.HH.
+- **Tasa de rotación:** empleados que dejan la empresa.  
+- **Costo por contratación:** gasto medio por empleado nuevo.  
+- **Compromiso laboral:** nivel de satisfacción e implicación.
 
 ---
 
-## Panel de Visualizaciones
+## 📊 Tipos de informes en Power BI
+- **Informes de ventas:** productos, tendencias y desempeño regional.  
+- **Informes de marketing:** rendimiento y ROI de campañas.  
+- **Informes financieros:** ingresos, gastos y márgenes.  
+- **Informes de RR.HH.:** rotación, diversidad y desempeño.  
 
-El panel de Power BI permite construir visualizaciones a partir de los datos.  
-Se compone de tres secciones principales:
-
-1. **Formato:** controla el diseño visual (colores, leyendas, etiquetas, títulos).  
-2. **Datos:** define qué campos se muestran (Ejes, Leyenda, Valores, Tooltips).  
-3. **Analizar:** incluye herramientas para agregar líneas de tendencia, medias o previsiones.
-
----
-
-## Conclusión Día 1
-
-Power BI convierte los datos en narrativas visuales que facilitan la interpretación, impulsan decisiones estratégicas y comunican resultados de forma clara.  
-Dominar la creación y personalización de informes es el primer paso hacia un análisis profesional y orientado a resultados.
+Cada informe combina **gráficos, tablas, KPI y mapas** según el objetivo analítico.
 
 ---
 
-## Conclusión Día 2
+## 🧩 Panel de Visualizaciones
+El panel de Power BI se divide en tres secciones:
 
-Durante esta jornada aprendí sobre los **diferentes tipos de visualizaciones** que ofrece Power BI:
-
-- Gráficos de **barras** y **barras apiladas** (simples y al 100%).  
-- Gráficos de **columnas** y **columnas apiladas al 100%**.  
-- Gráficos de **líneas**, **áreas** y **áreas al 100%**.  
-- Combinaciones de **columnas y líneas agrupadas**.  
-- Gráficos **circulares**, **de anillos** y **treemaps** (mapas jerárquicos).  
-- Visualizaciones de **KPI** como tarjetas, indicadores radiales y medidores.  
-- Gráficos de **cinta**, **cascada** y **embudo (funnel charts)**.  
-- Gráficos de **dispersión**, útiles para identificar valores atípicos (*outliers*).
-
-Aprendí que los **outliers** pueden proporcionar *insights* valiosos, pero también pueden distorsionar análisis si no se interpretan correctamente.
+1. **Formato:** personalización visual (colores, leyendas, etiquetas, títulos).  
+2. **Datos:** configuración de campos (Ejes, Leyenda, Valores, Tooltips).  
+3. **Analizar:** análisis avanzado (líneas de tendencia, medias, proyecciones).  
 
 ---
 
-## Introducción a los gráficos orientados
-
-Power BI ofrece una gran variedad de herramientas visuales que permiten representar datos de forma significativa. Sin embargo, no todas las visualizaciones son útiles para todos los públicos.  
-Cada departamento (RR.HH., Ventas, Marketing, TI, etc.) requiere **gráficos orientados** a sus necesidades específicas.
-
-### ¿Qué son los gráficos orientados?
-
-Un gráfico orientado es una visualización de datos diseñada para una audiencia específica, que resalta la información más relevante para ella.  
-Su objetivo es presentar los datos de forma más **clara, atractiva y eficiente**, evitando la sobrecarga de información.
-
-### Beneficios de los gráficos orientados
-- **Más fáciles de entender:** muestran solo lo esencial para la audiencia.  
-- **Más interesantes:** retienen la atención y fomentan el análisis.  
-- **Más centrados:** ayudan a la toma de decisiones informadas.  
-- **Más claros:** evitan la confusión y el exceso de datos.  
-- **Ahorro de tiempo:** permiten captar los puntos clave con rapidez.
+## 📘 Conclusión Día 1
+Power BI transforma los datos en historias visuales que facilitan la interpretación y la toma de decisiones informadas.  
+Dominar la creación de informes es el primer paso hacia un análisis profesional y estratégico.
 
 ---
 
-## Ejemplos de gráficos orientados
+## 📗 Conclusión Día 2
+Aprendí sobre los diferentes tipos de visualizaciones disponibles en Power BI:
 
-### 1. Recursos Humanos (RR.HH.)
-- **Gráfico:** Barras o columnas agrupadas.  
-- **Dato:** Tasa de rotación mensual por departamento.  
-- **Objetivo:** Identificar los departamentos con mayor rotación y planificar estrategias de retención.  
+- Barras, columnas, líneas y áreas (simples y apiladas).  
+- Combinaciones de columnas y líneas agrupadas.  
+- Gráficos circulares, de anillos y treemaps.  
+- Visualizaciones de KPI: tarjetas, medidores e indicadores radiales.  
+- Gráficos de cinta, cascada, embudo y dispersión.
 
-### 2. Marketing
-- **Gráfico:** Líneas.  
-- **Dato:** Coste de adquisición de clientes (CAC) por canal durante varios meses.  
-- **Objetivo:** Evaluar la rentabilidad de cada canal y optimizar la inversión.  
-
-### 3. Ventas
-- **Gráfico:** Línea simple.  
-- **Dato:** Ventas mensuales en dólares.  
-- **Objetivo:** Detectar tendencias, comparar periodos y proyectar el crecimiento futuro.  
-
-Cada visualización está orientada a un **KPI específico**, facilitando la interpretación y el enfoque en los objetivos clave del negocio.
+Descubrí la importancia de **seleccionar la visualización adecuada según el público y el objetivo**, y cómo los *outliers* pueden revelar información clave si se interpretan correctamente.
 
 ---
 
-## Indicadores Clave de Rendimiento (KPI)
+## 📙 Gráficos orientados
+Los **gráficos orientados** son visualizaciones diseñadas para audiencias específicas, destacando solo la información relevante.  
+Su propósito es comunicar de forma **clara, atractiva y efectiva**.
 
-Los **KPI** son métricas cuantificables que ayudan a medir el progreso de una organización hacia sus metas estratégicas.
+### Beneficios
+- Claridad y enfoque en los KPIs.  
+- Comprensión rápida y precisa.  
+- Mayor impacto visual y analítico.
 
-### KPI por área
+### Ejemplos
+| Área | Tipo de gráfico | Objetivo |
+|------|------------------|-----------|
+| RR.HH. | Barras agrupadas | Analizar rotación por departamento |
+| Marketing | Líneas | Evaluar CAC por canal |
+| Ventas | Líneas simples | Detectar tendencias y crecimiento |
 
-- **RR.HH.:** tasa de rotación, tiempo promedio de contratación, distribución por departamento.  
-- **Marketing:** coste de adquisición, tasa de conversión, satisfacción del cliente.  
-- **Ventas:** crecimiento mensual, logro de objetivos, tasa de conversión de ventas.
+---
 
-Visualizar los KPI de manera clara y específica en Power BI permite a los responsables **supervisar el rendimiento**, **ajustar estrategias** y **tomar decisiones basadas en datos**.
+## 📈 Indicadores Clave de Rendimiento (KPI)
+Los **KPI** permiten medir el avance hacia los objetivos estratégicos de la organización.
+
+**Ejemplos:**
+- **RR.HH.:** rotación, tiempo de contratación, distribución.  
+- **Marketing:** CAC, tasa de conversión, satisfacción del cliente.  
+- **Ventas:** crecimiento mensual, logro de metas, conversión.  
+
+Los KPI visualizados en Power BI brindan una visión rápida y comparativa del rendimiento empresarial.
 
 ---
 
-## Conclusión final
+## 📘 Conclusión Día 3
+La **visualización matricial** es una herramienta poderosa de Power BI que permite incluir gran cantidad de datos y ofrecer una **experiencia interactiva y personalizada**.  
+Los usuarios pueden explorar la información dinámicamente, profundizando en detalles relevantes para su rol o área.
 
-Utilizar **KPI y gráficos orientados** permite crear informes más útiles, relevantes y estratégicos.  
-En este módulo, aprendí a identificar los diferentes tipos de visualizaciones, darles formato, configurarlas adecuadamente y dirigirlas a la audiencia correcta.  
-Además, comprendí el papel fundamental de los KPI en la inteligencia empresarial: convertir los datos en conocimiento accionable que impulsa decisiones más rápidas y efectivas.
+En este punto, completé con éxito el **primer módulo**, comprendiendo:
+- La función estratégica de las visualizaciones.  
+- El proceso ETL (Extracción, Transformación y Carga) en Power BI.  
+- Cómo crear, configurar y compartir informes empresariales.  
+- La importancia de orientar visualizaciones hacia las **necesidades de cada audiencia**.  
 
 ---
+
+## 🏁 Cierre del Módulo 1
+Este módulo me proporcionó las **bases esenciales del análisis visual con Power BI**: desde el uso de gráficos básicos hasta el diseño de dashboards con KPIs estratégicos.  
+Ahora cuento con las habilidades necesarias para construir informes que **no solo informan, sino que inspiran decisiones fundamentadas**.  
+El siguiente paso será mejorar la **interactividad, accesibilidad y experiencia del usuario** en los informes, consolidando un enfoque profesional en inteligencia empresarial.

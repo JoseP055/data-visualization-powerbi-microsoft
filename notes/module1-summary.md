@@ -1,4 +1,4 @@
-# 🧭 Módulo 1 – Creación de Informes en Power BI
+# Módulo 1 – Creación de Informes en Power BI
 
 ## Descripción general
 Este módulo introduce la importancia del **análisis y la visualización de datos** dentro del contexto de la **inteligencia empresarial (Business Intelligence, BI)**.  
@@ -6,7 +6,7 @@ Se explica cómo **Power BI transforma datos en información procesable**, permi
 
 ---
 
-## 🎯 Objetivos de aprendizaje
+## Objetivos de aprendizaje
 Al finalizar este módulo, el estudiante será capaz de:
 
 - Reconocer los distintos tipos de visualizaciones en Power BI.  
@@ -16,7 +16,7 @@ Al finalizar este módulo, el estudiante será capaz de:
 
 ---
 
-## 💡 Conceptos clave de Inteligencia Empresarial (BI)
+## Conceptos clave de Inteligencia Empresarial (BI)
 
 **Inteligencia Empresarial (BI):**  
 Proceso tecnológico que transforma datos en conocimiento para la toma de decisiones estratégicas.
@@ -44,7 +44,7 @@ Proceso tecnológico que transforma datos en conocimiento para la toma de decisi
 
 ---
 
-## 📊 Tipos de informes en Power BI
+## Tipos de informes en Power BI
 - **Informes de ventas:** productos, tendencias y desempeño regional.  
 - **Informes de marketing:** rendimiento y ROI de campañas.  
 - **Informes financieros:** ingresos, gastos y márgenes.  
@@ -54,7 +54,7 @@ Cada informe combina **gráficos, tablas, KPI y mapas** según el objetivo anal�
 
 ---
 
-## 🧩 Panel de Visualizaciones
+## Panel de Visualizaciones
 El panel de Power BI se divide en tres secciones:
 
 1. **Formato:** personalización visual (colores, leyendas, etiquetas, títulos).  
@@ -63,13 +63,13 @@ El panel de Power BI se divide en tres secciones:
 
 ---
 
-## 📘 Conclusión Día 1
+## Conclusión Día 1
 Power BI transforma los datos en historias visuales que facilitan la interpretación y la toma de decisiones informadas.  
 Dominar la creación de informes es el primer paso hacia un análisis profesional y estratégico.
 
 ---
 
-## 📗 Conclusión Día 2
+## Conclusión Día 2
 Aprendí sobre los diferentes tipos de visualizaciones disponibles en Power BI:
 
 - Barras, columnas, líneas y áreas (simples y apiladas).  
@@ -82,7 +82,7 @@ Descubrí la importancia de **seleccionar la visualización adecuada según el p
 
 ---
 
-## 📙 Gráficos orientados
+## Gráficos orientados
 Los **gráficos orientados** son visualizaciones diseñadas para audiencias específicas, destacando solo la información relevante.  
 Su propósito es comunicar de forma **clara, atractiva y efectiva**.
 
@@ -100,7 +100,7 @@ Su propósito es comunicar de forma **clara, atractiva y efectiva**.
 
 ---
 
-## 📈 Indicadores Clave de Rendimiento (KPI)
+## Indicadores Clave de Rendimiento (KPI)
 Los **KPI** permiten medir el avance hacia los objetivos estratégicos de la organización.
 
 **Ejemplos:**
@@ -112,7 +112,7 @@ Los KPI visualizados en Power BI brindan una visión rápida y comparativa del r
 
 ---
 
-## 📘 Conclusión Día 3
+## Conclusión Día 3
 La **visualización matricial** es una herramienta poderosa de Power BI que permite incluir gran cantidad de datos y ofrecer una **experiencia interactiva y personalizada**.  
 Los usuarios pueden explorar la información dinámicamente, profundizando en detalles relevantes para su rol o área.
 
@@ -124,7 +124,7 @@ En este punto, completé con éxito el **primer módulo**, comprendiendo:
 
 ---
 
-## 🏁 Cierre del Módulo 1
+## Cierre del Módulo 1
 Este módulo me proporcionó las **bases esenciales del análisis visual con Power BI**: desde el uso de gráficos básicos hasta el diseño de dashboards con KPIs estratégicos.  
 Ahora cuento con las habilidades necesarias para construir informes que **no solo informan, sino que inspiran decisiones fundamentadas**.  
 El siguiente paso será mejorar la **interactividad, accesibilidad y experiencia del usuario** en los informes, consolidando un enfoque profesional en inteligencia empresarial.

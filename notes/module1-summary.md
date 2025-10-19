@@ -124,7 +124,7 @@ En este punto, completé con éxito el **primer módulo**, comprendiendo:
 
 ---
 
-## Cierre del Módulo 1
+## Cierre del Módulo 1 (Completado)
 Este módulo me proporcionó las **bases esenciales del análisis visual con Power BI**: desde el uso de gráficos básicos hasta el diseño de dashboards con KPIs estratégicos.  
 Ahora cuento con las habilidades necesarias para construir informes que **no solo informan, sino que inspiran decisiones fundamentadas**.  
 El siguiente paso será mejorar la **interactividad, accesibilidad y experiencia del usuario** en los informes, consolidando un enfoque profesional en inteligencia empresarial.

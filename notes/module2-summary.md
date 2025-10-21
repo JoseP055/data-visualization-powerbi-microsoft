@@ -19,7 +19,7 @@ Al finalizar esta sección, el estudiante será capaz de:
 
 ---
 
-## Conclusión Día 3
+## Conclusión Día 4
 En esta sesión aprendí que **la accesibilidad es parte esencial del diseño profesional de informes**.  
 No se trata solo de cumplir estándares, sino de **crear experiencias más humanas, comprensibles y universales**.  
 

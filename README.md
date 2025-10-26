@@ -38,7 +38,7 @@ Aprender a **importar, transformar, analizar y visualizar datos** utilizando **M
 ## Uso de este repositorio
 
 Este repositorio fue creado con fines **académicos y personales** para reforzar las competencias adquiridas durante el curso.  
-No contiene material protegido ni contenido oficial del curso, sino resúmenes, apuntes y proyectos elaborados por el estudiante como parte de su aprendizaje.
+No contiene material protegido ni contenido oficial del curso, sino resúmenes, apuntes y proyectos elaborados por el estudiante como parte de su aprendizaje
 
 ---
 

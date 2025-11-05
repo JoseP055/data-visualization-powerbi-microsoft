@@ -39,3 +39,17 @@ Asimismo, con `MIN` y `MAX` pude identificar los **valores extremos**, una prác
 Con `COMBIN(n,k)` y `PERMUT(n,k)` comprendí cómo calcular el número de combinaciones y permutaciones posibles, aplicando principios de **probabilidad y estadística** a escenarios reales como sorteos o análisis de escenarios.  
 
 ---
+
+
+## Conclusión Día 10 – Análisis de series temporales y barras de error  
+Aprendí a utilizar la **función Analizar** en Power BI y a trabajar con **series temporales**, comprendiendo cómo los datos asociados al tiempo permiten detectar tendencias, estacionalidades y comportamientos recurrentes.  
+Descubrí que agrupar los datos por intervalos (diarios, mensuales o anuales) facilita una visión más clara de los cambios a lo largo del tiempo y mejora la precisión de los pronósticos.  
+
+También profundicé en las **barras de error**, una herramienta esencial para representar la **variabilidad o incertidumbre** de los datos.  
+- Comprendí los distintos tipos: **error estándar**, **intervalo de confianza**, **desviación estándar** y **valores personalizados**.  
+- Aprendí su aplicación en contextos empresariales como **análisis financiero, estudios de mercado y gestión de inventario**.  
+- Implementé barras de error en visuales de **líneas, barras y dispersión**, personalizando colores, etiquetas y bandas de error para una mejor claridad visual.  
+
+Estas técnicas me enseñaron que el análisis no solo trata de mostrar resultados, sino de **comunicar la fiabilidad y precisión de los datos**.
+
+---

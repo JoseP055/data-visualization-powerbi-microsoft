@@ -53,3 +53,14 @@ También profundicé en las **barras de error**, una herramienta esencial para r
 Estas técnicas me enseñaron que el análisis no solo trata de mostrar resultados, sino de **comunicar la fiabilidad y precisión de los datos**.
 
 ---
+
+## Conclusión Día 11 – Pronósticos e influyentes clave  
+Durante este día aprendí a **realizar pronósticos en Power BI**, utilizando las opciones analíticas para **predecir valores futuros** con base en las tendencias históricas.  
+Entendí cómo ajustar parámetros como la **longitud del pronóstico**, el **intervalo de confianza** y el **punto de inicio** para obtener proyecciones más precisas y realistas.  
+
+Además, exploré la visualización de **influyentes clave**, una herramienta que emplea **inteligencia artificial** para identificar los factores que más impactan un resultado específico.  
+- Aprendí a interpretar los **grados de influencia** y cómo usar esta visualización para **descubrir relaciones ocultas** entre variables.  
+- Comprendí la importancia de **limpiar y preparar adecuadamente los datos** para mejorar la calidad del análisis de influenciadores.  
+- Vi cómo integrar esta herramienta con otras visualizaciones para **obtener información valiosa y explicar resultados de negocio** de manera más clara y convincente.  
+
+Este día reforzó la idea de que el verdadero poder del análisis radica en **anticipar el futuro y entender las causas detrás de los datos**, combinando predicción y explicación dentro de una misma narrativa visual.  

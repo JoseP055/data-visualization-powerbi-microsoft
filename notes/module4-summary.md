@@ -65,4 +65,12 @@ Además, exploré la visualización de **influyentes clave**, una herramienta qu
 
 Este día reforzó la idea de que el verdadero poder del análisis radica en **anticipar el futuro y entender las causas detrás de los datos**, combinando predicción y explicación dentro de una misma narrativa visual.
 
-## Conclusión Día 12
+## Conclusión Día 12 – Árbol de descomposición y visualización Q&A  
+
+Durante este día aprendí a utilizar el **árbol de descomposición** y la **visualización de Preguntas y Respuestas (Q&A)** en Power BI, dos herramientas potentes para el análisis interactivo y explicativo de datos.  
+
+El **árbol de descomposición** permite **explorar causas raíz**, identificar los **factores que más influyen** en una métrica y descubrir **patrones ocultos** dentro de los datos mediante una descomposición dinámica y visual.  
+
+Por otro lado, la visualización **Q&A** aprovecha la **inteligencia artificial** para que los usuarios formulen **preguntas en lenguaje natural** y obtengan respuestas visuales instantáneas, facilitando la exploración ad hoc sin necesidad de conocimientos técnicos avanzados.  
+
+Estas herramientas combinan **análisis exploratorio e interpretativo**, impulsando la toma de decisiones basada en evidencia y fomentando una cultura de análisis accesible para todos los niveles de una organización.

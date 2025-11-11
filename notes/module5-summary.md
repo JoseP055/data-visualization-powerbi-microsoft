@@ -86,7 +86,7 @@ Para maximizar mi desempeño, seguí estas acciones:
 
 ---
 
-## Conclusión
+## Conclusión Final
 El **Módulo 5** fue el punto culminante de un viaje de práctica, análisis y descubrimiento.  
 Pasé de ser un explorador curioso de los datos a convertirme en un **analista seguro, estratégico y con visión crítica**, capaz de utilizar Power BI como una verdadera herramienta de transformación empresarial.
 
